@@ -3780,12 +3780,6 @@
     "zigbeeStackVersion": "ZigBeePro"
   },
   {
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Inovelli/VZM32-SN_0.04.ota",
-    "stack": "EmberZNet",
-    "stackDetails": "GBL",
-    "zigbeeStackVersion": "ZigBeePro"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/SlackyDiy/6565-0204-20043001-watermeter_zed.zigbee",
     "stack": "Telink",
     "stackDetails": "TLSR8258",
@@ -4191,6 +4185,12 @@
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Ubisys/10F2-7B4A-0100-0100-02600460-ubisys-r0-qpg6105.ota.zigbee",
     "stack": "Unknown",
     "stackDetails": "",
+    "zigbeeStackVersion": "ZigBeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Inovelli/VZM32-SN_0.06.ota",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
     "zigbeeStackVersion": "ZigBeePro"
   }
 ]
