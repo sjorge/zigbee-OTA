@@ -1335,17 +1335,6 @@
     "otaHeaderString": "DR1175r1v02--JN5169--ENCRYPTED00"
   },
   {
-    "fileName": "100B-0129-01000D02-Light-EFR32MG26.zigbee",
-    "fileVersion": 16780546,
-    "fileSize": 837940,
-    "originalUrl": "https://firmware.meethue.com/storage/100b-129/16780546/639d0ae6-07d8-40bf-9459-6c370410d180/100B-0129-01000D02-Light-EFR32MG26.zigbee",
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images1/Hue/100B-0129-01000D02-Light-EFR32MG26.zigbee",
-    "imageType": 297,
-    "manufacturerCode": 4107,
-    "sha512": "3eecbdb068aeff962a430cafbcad57c8792129577eafbf409e2fc0ffb3333d04a6f492202e4d0c8362964d0bcc1a0add6f2c4b4046cfd1383ddf9e4f733abc95",
-    "otaHeaderString": ""
-  },
-  {
     "fileName": "FireAlarm_4.0.8.zigbee",
     "fileVersion": 262152,
     "fileSize": 201716,
@@ -1971,5 +1960,16 @@
     "otaHeaderString": "ubisys H10 2.6.0",
     "hardwareVersionMin": 0,
     "hardwareVersionMax": 1
+  },
+  {
+    "fileName": "100B-0129-01000D06-Light-EFR32MG26.zigbee",
+    "fileVersion": 16780550,
+    "fileSize": 833604,
+    "originalUrl": "https://firmware.meethue.com/storage/100b-129/16780550/d44f751c-9def-4483-aeb9-940f59ed3aa1/100B-0129-01000D06-Light-EFR32MG26.zigbee",
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images1/Hue/100B-0129-01000D06-Light-EFR32MG26.zigbee",
+    "imageType": 297,
+    "manufacturerCode": 4107,
+    "sha512": "c21b60bca9276fb9c1cecfe4b61b91a4cc90ca9a48cd75c93fb2ed8fc33853e81b0f4e618afbc7ba6538b7a868669765698611c3db2430389aa5fae86c28c5d3",
+    "otaHeaderString": ""
   }
 ]

@@ -3720,12 +3720,6 @@
     "zigbeeStackVersion": "ZigBeePro"
   },
   {
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0129-01000D06-Light-EFR32MG26.zigbee",
-    "stack": "EmberZNet",
-    "stackDetails": "GBL",
-    "zigbeeStackVersion": "ZigBeePro"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Inovelli/mmwave_module_fw_V3_14_3.ota",
     "stack": "Unknown",
     "stackDetails": "",
@@ -4191,6 +4185,12 @@
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Ubisys/10F2-7B3B-0000-0001-02610461-m7b-h10.ota.zigbee",
     "stack": "Unknown",
     "stackDetails": "",
+    "zigbeeStackVersion": "ZigBeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0129-01001000-Light-EFR32MG26.zigbee",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
     "zigbeeStackVersion": "ZigBeePro"
   }
 ]
